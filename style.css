@@ -10,10 +10,10 @@ body {
 	user-select: none;
    
 }
-.video{
+/**.video{
     background-repeat: no-repeat;
     background: size 10px;;
-}
+}**/
 canvas {
 	transition: background 1s;
 	width: 100vw;
